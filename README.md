@@ -2,7 +2,7 @@
 
 A custom `UISlider` that snaps to certain values when dragged. 
 
-![Gif of the snapping slider](https://dl.dropboxusercontent.com/u/182737/slider.gif "Gif of the slider")
+![Gif of the snapping slider](https://github.com/funkyboy/snapping-slider/blob/master/slider.gif "Gif of the slider")
 
 ## How to use
 
